@@ -1,5 +1,5 @@
 {
-  "name": "nodebb-theme-persona",
+  "name": "nodebb-theme-persona-52poke",
   "version": "10.3.19",
   "nbbpm": {
     "compatibility": "^1.16.0"
@@ -8,7 +8,7 @@
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona"
+    "url": "https://github.com/mudkipme/nodebb-theme-persona-52poke"
   },
   "keywords": [
     "nodebb",
@@ -36,7 +36,7 @@
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+    "url": "https://github.com/mudkipme/nodebb-theme-persona-52poke/issues"
   },
   "dependencies": {
     "pulling": "^2.0.0",

@@ -91,6 +91,11 @@ library.defineWidgetAreas = function(areas, callback) {
 			name: "Tag Header",
 			template: "tag.tpl",
 			location: "header"
+		},
+        {
+			name: "Profile Middle",
+			template: "account/profile.tpl",
+			location: "middle"
 		}
 	]);
 

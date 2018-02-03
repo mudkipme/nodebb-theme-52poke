@@ -27,6 +27,8 @@
 		<br/>
 		<!-- ENDIF selectedGroup.length -->
 
+		<div widget-area="middle"></div>
+
 		<!-- IF aboutme -->
 		<span component="aboutme" class="text-center aboutme">{aboutmeParsed}</span>
 		<!-- ENDIF aboutme -->
