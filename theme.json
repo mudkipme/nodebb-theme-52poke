@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-persona-52poke",
+    "id": "nodebb-theme-52poke",
     "name": "Persona-52POKE",
-    "description": "The default theme for NodeBB. Uses a standard approach to forum design.",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona",
+    "description": "A fork of NodeBB Persona theme to add necessary features used on 52Poké Forums.",
+    "url": "https://github.com/mudkipme/nodebb-theme-52poke",
     "screenshot": "screenshot.png"
 }
