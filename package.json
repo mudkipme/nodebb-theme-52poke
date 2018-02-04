@@ -1,14 +1,14 @@
 {
-  "name": "nodebb-theme-persona-52poke",
+  "name": "nodebb-theme-persona-52poke-forums",
   "version": "0.2.0",
   "nbbpm": {
     "compatibility": "^1.16.0"
   },
-  "description": "Persona theme for NodeBB",
+  "description": "A fork of NodeBB Persona theme to add necessary features used on 52Poké Forums.",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mudkipme/nodebb-theme-persona-52poke"
+    "url": "https://github.com/mudkipme/nodebb-theme-persona-52poke-forums"
   },
   "keywords": [
     "nodebb",
@@ -36,7 +36,7 @@
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/mudkipme/nodebb-theme-persona-52poke/issues"
+    "url": "https://github.com/mudkipme/nodebb-theme-persona-52poke-forums/issues"
   },
   "dependencies": {
     "pulling": "^2.0.0",

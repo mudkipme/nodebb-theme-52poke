@@ -27,7 +27,7 @@
 		<br/>
 		<!-- ENDIF selectedGroup.length -->
 
-		<div widget-area="middle">
+		<div widget-area="middle" class="text-center">
 			<!-- BEGIN widgets.middle -->
 			{{widgets.middle.html}}
 			<!-- END widgets.middle -->

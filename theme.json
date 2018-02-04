@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-52poke",
+    "id": "nodebb-theme-persona-52poke-forums",
     "name": "Persona-52POKE",
     "description": "A fork of NodeBB Persona theme to add necessary features used on 52Poké Forums.",
-    "url": "https://github.com/mudkipme/nodebb-theme-52poke",
+    "url": "https://github.com/mudkipme/nodebb-theme-persona-52poke-forums",
     "screenshot": "screenshot.png"
 }

@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-theme-persona-52poke",
+	"id": "nodebb-theme-persona-52poke-forums",
 	"hooks": [
 		{ "hook": "filter:widgets.getAreas", "method": "defineWidgetAreas" },
 		{ "hook": "filter:config.get", "method": "getThemeConfig" },
